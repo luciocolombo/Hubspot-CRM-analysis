@@ -1,0 +1,41 @@
+contact_email,contact_first_name,contact_last_name,contact_owner_name,contact_lead_source,contact_response_time_days,deal_stage,deal_pipeline,deal_name,deal_amount_usd,company_name,company_domain,deal_create_date
+david.wong@brightlabs.tech,David,Wong,Gem Rugg-Gunn,Social Media,23,Closed Won,Agency Pipeline,BrightLabs - David Wong Opportunity,11343.44,BrightLabs,brightlabs.tech,2025-05-27
+gem.chen@nexify.co,Gem,Chen,Lily Bristow,Referral,13,Appointment Scheduled,Sales Pipeline,Nexify - Gem Chen Opportunity,7855.39,Nexify,nexify.co,2025-09-09
+mia.martinez@vantageworks.com,Mia,Martinez,Maya Chen,Organic Search,15,Appointment Scheduled,Agency Pipeline,VantageWorks - Mia Martinez Opportunity,10814.97,VantageWorks,vantageworks.com,2024-03-31
+olivia.khan@dataflow.ai,Olivia,Khan,Gem Rugg-Gunn,Email Campaign,22,Contract Sent,Sales Pipeline,DataFlow - Olivia Khan Opportunity,6217.3,DataFlow,dataflow.ai,2024-11-27
+emma.taylor@vantageworks.com,Emma,Taylor,Maya Chen,Email Campaign,2,Closed Lost,Agency Pipeline,VantageWorks - Emma Taylor Opportunity,6761.4,VantageWorks,vantageworks.com,2024-01-21
+emma.bristow@nexify.co,Emma,Bristow,Gem Rugg-Gunn,Partner,25,Contract Sent,Sales Pipeline,Nexify - Emma Bristow Opportunity,17327.8,Nexify,nexify.co,2025-05-17
+maya.smith@ironoak.com,Maya,Smith,Maya Chen,Organic Search,14,Closed Lost,Agency Pipeline,IronOak - Maya Smith Opportunity,5681.91,IronOak,ironoak.com,2025-01-01
+alex.tan@ironoak.com,Alex,Tan,Sara Lim,Social Media,10,Contract Sent,Sales Pipeline,IronOak - Alex Tan Opportunity,2503.67,IronOak,ironoak.com,2024-06-30
+mia.wong@quantumsoft.ai,Mia,Wong,Alex Wong,Organic Search,29,Closed Lost,Sales Pipeline,QuantumSoft - Mia Wong Opportunity,2324.51,QuantumSoft,quantumsoft.ai,2024-02-23
+chris.martinez@vantageworks.com,Chris,Martinez,Sara Lim,Email Campaign,21,Closed Lost,Sales Pipeline,VantageWorks - Chris Martinez Opportunity,20645.75,VantageWorks,vantageworks.com,2024-11-29
+ethan.chen@bluepeak.io,Ethan,Chen,Sara Lim,Social Media,17,Appointment Scheduled,Sales Pipeline,BluePeak - Ethan Chen Opportunity,18844.67,BluePeak,bluepeak.io,2024-02-05
+john.tan@ironoak.com,John,Tan,Alex Wong,Email Campaign,7,Contract Sent,Agency Pipeline,IronOak - John Tan Opportunity,5553.02,IronOak,ironoak.com,2024-08-29
+john.chen@dataflow.ai,John,Chen,Lily Bristow,Email Campaign,9,Contract Sent,Agency Pipeline,DataFlow - John Chen Opportunity,21323.75,DataFlow,dataflow.ai,2025-03-21
+alex.khan@quantumsoft.ai,Alex,Khan,Lucas Ng,Organic Search,1,Appointment Scheduled,Sales Pipeline,QuantumSoft - Alex Khan Opportunity,24351.18,QuantumSoft,quantumsoft.ai,2024-09-03
+tom.lim@acmecorp.com,Tom,Lim,Alex Wong,Partner,3,Presentation Scheduled,Sales Pipeline,Acme Corp - Tom Lim Opportunity,3856.73,Acme Corp,acmecorp.com,2024-09-02
+tom.taylor@skylinesystems.com,Tom,Taylor,Maya Chen,Social Media,0,Contract Sent,Sales Pipeline,Skyline Systems - Tom Taylor Opportunity,14626.3,Skyline Systems,skylinesystems.com,2025-09-30
+david.ng@innova.co,David,Ng,Lily Bristow,Paid Ads,16,Closed Won,Agency Pipeline,Innova - David Ng Opportunity,23455.33,Innova,innova.co,2025-06-13
+noah.lim@bluepeak.io,Noah,Lim,Alex Wong,Social Media,3,Appointment Scheduled,Sales Pipeline,BluePeak - Noah Lim Opportunity,6673.9,BluePeak,bluepeak.io,2025-01-28
+olivia.ng@skylinesystems.com,Olivia,Ng,Maya Chen,Email Campaign,21,Closed Lost,Agency Pipeline,Skyline Systems - Olivia Ng Opportunity,10849.63,Skyline Systems,skylinesystems.com,2025-03-24
+emma.chen@skylinesystems.com,Emma,Chen,Sara Lim,Paid Ads,1,Closed Lost,Agency Pipeline,Skyline Systems - Emma Chen Opportunity,9509.56,Skyline Systems,skylinesystems.com,2024-05-18
+mia.rugg-gunn@dataflow.ai,Mia,Rugg-Gunn,Sara Lim,Social Media,23,Closed Won,Agency Pipeline,DataFlow - Mia Rugg-Gunn Opportunity,18677.02,DataFlow,dataflow.ai,2025-05-19
+mia.smith@redharbor.co,Mia,Smith,Chris Grant,Paid Ads,25,Presentation Scheduled,Sales Pipeline,RedHarbor - Mia Smith Opportunity,7033.31,RedHarbor,redharbor.co,2025-09-18
+maya.smith@vantageworks.com,Maya,Smith,Lily Bristow,Organic Search,16,Qualified to Buy,Agency Pipeline,VantageWorks - Maya Smith Opportunity,16457.25,VantageWorks,vantageworks.com,2025-09-30
+alex.bristow@solstice.io,Alex,Bristow,Chris Grant,Referral,12,Closed Won,Sales Pipeline,Solstice - Alex Bristow Opportunity,7403.95,Solstice,solstice.io,2024-02-08
+gem.martinez@innova.co,Gem,Martinez,Maya Chen,Email Campaign,12,Presentation Scheduled,Sales Pipeline,Innova - Gem Martinez Opportunity,11281.92,Innova,innova.co,2024-03-15
+sara.smith@redharbor.co,Sara,Smith,Lucas Ng,Social Media,2,Closed Lost,Sales Pipeline,RedHarbor - Sara Smith Opportunity,4880.68,RedHarbor,redharbor.co,2024-12-08
+ethan.taylor@innova.co,Ethan,Taylor,Chris Grant,Paid Ads,18,Contract Sent,Sales Pipeline,Innova - Ethan Taylor Opportunity,12923.03,Innova,innova.co,2024-05-22
+lily.bristow@dataflow.ai,Lily,Bristow,Lucas Ng,Email Campaign,8,Presentation Scheduled,Sales Pipeline,DataFlow - Lily Bristow Opportunity,14439.91,DataFlow,dataflow.ai,2024-10-16
+olivia.rugg-gunn@clearpath.ai,Olivia,Rugg-Gunn,Lily Bristow,Paid Ads,10,Closed Won,Agency Pipeline,ClearPath - Olivia Rugg-Gunn Opportunity,22014.58,ClearPath,clearpath.ai,2025-04-13
+sara.taylor@greenedge.io,Sara,Taylor,Alex Wong,Organic Search,9,Contract Sent,Agency Pipeline,GreenEdge - Sara Taylor Opportunity,21579.48,GreenEdge,greenedge.io,2024-10-13
+tom.martinez@brightlabs.tech,Tom,Martinez,Sara Lim,Organic Search,2,Closed Lost,Agency Pipeline,BrightLabs - Tom Martinez Opportunity,4612.04,BrightLabs,brightlabs.tech,2025-07-06
+tom.bristow@vantageworks.com,Tom,Bristow,Maya Chen,Referral,26,Closed Lost,Sales Pipeline,VantageWorks - Tom Bristow Opportunity,19399.53,VantageWorks,vantageworks.com,2025-07-09
+tom.chen@vantageworks.com,Tom,Chen,Sara Lim,Partner,25,Closed Lost,Sales Pipeline,VantageWorks - Tom Chen Opportunity,23943.33,VantageWorks,vantageworks.com,2025-09-01
+emma.rugg-gunn@redharbor.co,Emma,Rugg-Gunn,Chris Grant,Partner,21,Presentation Scheduled,Sales Pipeline,RedHarbor - Emma Rugg-Gunn Opportunity,9076.62,RedHarbor,redharbor.co,2024-02-11
+olivia.wong@dataflow.ai,Olivia,Wong,Lucas Ng,Partner,30,Presentation Scheduled,Sales Pipeline,DataFlow - Olivia Wong Opportunity,19972.93,DataFlow,dataflow.ai,2024-12-12
+olivia.lee@brightlabs.tech,Olivia,Lee,Gem Rugg-Gunn,Organic Search,2,Presentation Scheduled,Sales Pipeline,BrightLabs - Olivia Lee Opportunity,22419.96,BrightLabs,brightlabs.tech,2024-09-14
+chris.lee@ironoak.com,Chris,Lee,Lucas Ng,Organic Search,2,Contract Sent,Agency Pipeline,IronOak - Chris Lee Opportunity,15004.29,IronOak,ironoak.com,2025-03-12
+ethan.brown@ironoak.com,Ethan,Brown,Lily Bristow,Email Campaign,9,Appointment Scheduled,Agency Pipeline,IronOak - Ethan Brown Opportunity,12711.28,IronOak,ironoak.com,2024-09-14
+ethan.smith@vantageworks.com,Ethan,Smith,Alex Wong,Social Media,19,Appointment Scheduled,Agency Pipeline,VantageWorks - Ethan Smith Opportunity,2343.62,VantageWorks,vantageworks.com,2025-05-25
+john.silva@clearpath.ai,John,Silva,Maya Chen,Paid Ads,25,Closed Lost,Sales Pipeline,ClearPath - John Silva Opportunity,1865.72,ClearPath,clearpath.ai,2025-09-03
