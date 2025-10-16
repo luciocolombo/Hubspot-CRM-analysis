@@ -14,6 +14,7 @@ HubSpot’s free tier offered very limited dashboard and reporting functionality
 To overcome these limitations, I migrated the dataset to **BigQuery** for SQL-based exploration and connected it to **Tableau** for interactive visualization and trend analysis.
 
 ![HubSpot Dashboard Limitations](Resources/hubspot_dashboard.jpg)
+_Initial Hubspot Dashboard before migration to Tableau_
 
 ---
 
