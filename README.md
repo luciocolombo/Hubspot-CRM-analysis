@@ -4,13 +4,16 @@
 Analyze CRM data exported from HubSpot to uncover insights about deal volume, lead sources, pipelines, response times, and customer behavior.  
 This project simulates a **marketing and sales operations analyst** workflow — transforming flat CRM exports into actionable intelligence.
 
-All SQL exploration and metrics are documented in [`SQL_Queries.md`](SQL_Queries.md).
-Final dashboard - Overview: [Tableau interactive overview dashboard](https://public.tableau.com/app/profile/lucio.colombo/viz/HubspotCRManalysis/Dashboard1)
-Revenue analysis dashboard: [Tableau interactive revenue analysis dashboard](https://public.tableau.com/app/profile/lucio.colombo/viz/Revenueanalysis_17606668305090/Dashboard2)
+All SQL exploration and metrics are documented in [`SQL_Queries.md`](SQL_Queries.md).<br>
+Final dashboard - Overview: [Tableau interactive overview dashboard](https://public.tableau.com/app/profile/lucio.colombo/viz/HubspotCRManalysis/Dashboard1)<br>
+Revenue analysis dashboard: [Tableau interactive revenue analysis dashboard](https://public.tableau.com/app/profile/lucio.colombo/viz/Revenueanalysis_17606668305090/Dashboard2)<br>
 
 If links are non functional, refer to the images below:
-![Tableau interactive overview dashboard](Resources/Revenue_analysis_dashboard.jpg)
-![Tableau interactive revenue analysis dashboard](Resources/Overview_dashboard.jpg)
+
+<p align="center">
+  <img src="Resources/Revenue_analysis_dashboard.jpg" width="600"/><br>
+  <img src="Resources/Overview_dashboard.jpg" width="600"/>
+</p>
 
 ---
 
