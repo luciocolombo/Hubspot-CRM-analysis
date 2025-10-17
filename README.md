@@ -5,6 +5,12 @@ Analyze CRM data exported from HubSpot to uncover insights about deal volume, le
 This project simulates a **marketing and sales operations analyst** workflow — transforming flat CRM exports into actionable intelligence.
 
 All SQL exploration and metrics are documented in [`SQL_Queries.md`](SQL_Queries.md).
+Final dashboard - Overview: [Tableau interactive overview dashboard](https://public.tableau.com/app/profile/lucio.colombo/viz/HubspotCRManalysis/Dashboard1)
+Revenue analysis dashboard: [Tableau interactive revenue analysis dashboard](https://public.tableau.com/app/profile/lucio.colombo/viz/Revenueanalysis_17606668305090/Dashboard2)
+
+If links are non functional, refer to the images below:
+![Tableau interactive overview dashboard](Resources/Revenue_analysis_dashboard.jpg)
+![Tableau interactive revenue analysis dashboard](Resources/Overview_dashboard.jpg)
 
 ---
 
@@ -88,10 +94,10 @@ _(Dashboard built in Tableau)_
 
 ## 🧠 Insight Summary
 
--  Deals show consistent monthly growth, with spikes tied to paid and organic campaigns.
--  Email and Organic channels dominate early-stage leads; Paid Ads yield larger deal values.
--  Faster first responses (≤3 days) correlate with higher close rates and deal sizes.
--  Repeat companies tend to have longer cycles but higher total value.
--  Revenue is moderately concentrated in a few top clients (~40 % in top 5).
+-  **Deal volume and value** show steady growth over time, with visible peaks in early and late 2024.
+-  **Email Campaigns** and **Organic Search** remain top sources, but **Paid Ads** generate higher-value deals on average.
+-  **Faster responses (0–3 days)** still outperform slower ones (7+ days) in close rate and deal value — confirming the speed–conversion link.
+-  **Repeat customers** represent a smaller share of total deals but drive significant recurring revenue.
+-  **Revenue concentration** remains moderate: roughly **40% of total value comes from the top 5 companies**, as shown in the Pareto chart.
 
 ---
